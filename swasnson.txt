@@ -1,0 +1,19 @@
+
+
+
+Create Swanson Repo
+  -done
+  
+  
+  FRONT END STORIES
+  
+Stories
+  - user should be able to click button or image to produce new swanson quote
+  - user should be able to select size of swanson quote (small- 4 words or less, medium- 5-12 words, large- 13 words or longer)
+  
+  BACK END STORIES
+  
+Stories
+  -Should allow user to rate quote (1-5)
+  -each quote should show average rating
+  -It should not let the same IP address / session rate more than 1 time
